@@ -14,4 +14,4 @@ The notebooks are experiments, courses, hacks and code ideas from various source
 
 ## My Notebooks
 
-* [Filtering RDDs](https://github.com/riched158/ApacheSpark/tree/master/spark_notebooks): determing min temperature in year 1800 
+* [Filtering RDDs](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/FilterRDDs.ipynb): determing min temperature in year 1800 
