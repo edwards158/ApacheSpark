@@ -10,3 +10,8 @@ The notebooks are experiments, courses, hacks and code ideas from various source
 
 [Udemy](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/) &nbsp; 
 [medium](https://medium.freecodecamp.org/how-to-set-up-pyspark-for-your-jupyter-notebook-7399dd3cb389) &nbsp; 
+
+
+## My Notebooks
+
+* [Filtering RDDs](https://github.com/riched158/ApacheSpark/tree/master/spark_notebooks): determing min temperature in year 1800 
