@@ -19,4 +19,4 @@ The notebooks are experiments, courses, hacks and code ideas from various source
 * [FlatMap RDDs](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/FlatMapRDDs.ipynb): processing text files
 
 
-* [RDDs](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/PySparkRDDs1.ipynb): Introduction to RDDs
+* [RDDs](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/PySparkRDDs1.ipynb): Getting the word frequency of Shakespeare's works using RDDs
