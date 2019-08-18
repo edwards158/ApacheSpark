@@ -18,4 +18,4 @@ The notebooks are experiments, courses, hacks and code ideas from various source
 * [FlatMap RDDs](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/FlatMapRDDs.ipynb): processing text files
 * [RDDs](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/PySparkRDDs1.ipynb): Getting the word frequency of Shakespeare's works using RDDs
 * [PySpark SQL](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/PySparkSQLDataFrames.ipynb): Tutorial and PySpark DataFrames and SQL
-* [Spark Machine Learning 1](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/SparkML_Flights.ipynb): Using data cleaning and preperation, Logistic Regression and Decision Trees to analyse Flight Delays and Spam messages 
+* [Spark Machine Learning 1](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/SparkML_Flights.ipynb): Data Cleaning and ML on Classification based Data
