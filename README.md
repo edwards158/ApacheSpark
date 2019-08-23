@@ -8,7 +8,7 @@ This repository contains some of my work using Apache Spark.  I run these experi
 
 The notebooks are experiments, courses, assignments, hacks and code ideas from various sources.  For most of these notebooks I have used the following sources as my starting point:
 
-[Udemy](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/) &nbsp; 
+[Udemy](https://www.udemy.com) &nbsp; 
 [Medium](https://medium.freecodecamp.org/how-to-set-up-pyspark-for-your-jupyter-notebook-7399dd3cb389) &nbsp; 
 [Kaggle](https://www.kaggle.com) &nbsp;
 [Udacity](https://www.udacity.com) &nbsp;
