@@ -22,3 +22,4 @@ The notebooks are experiments, courses, assignments, hacks and code ideas from v
 * [Spark Machine Learning 1](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/SparkML_Flights.ipynb): Data Cleaning and ML on Classification based Data
 * [Regression Techniques](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/RegressionTechniques.ipynb):  Appying regression techniques to flights dataset in pyspark
 * [Pipelines](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/PipeLineTechniques.ipynb): Using Pipelines with the flights dataset
+* [Spark DataFrame Prep](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/SparkDataPrep.ipynb): Preparing dataframes for analysis in Spark
