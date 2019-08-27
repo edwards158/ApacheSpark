@@ -15,8 +15,6 @@ The notebooks are experiments, courses, assignments, hacks and code ideas from v
 
 ## My Notebooks
 
-* [Filtering RDDs](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/FilterRDDs.ipynb): Determining min temperature in year 1800 
-* [FlatMap RDDs](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/FlatMapRDDs.ipynb): processing text files
 * [RDDs](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/PySparkRDDs1.ipynb): Getting the word frequency of Shakespeare's works using RDDs
 * [PySpark SQL](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/PySparkSQLDataFrames.ipynb): Tutorial and PySpark DataFrames and SQL
 * [Spark Machine Learning 1](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/SparkML_Flights.ipynb): Data Cleaning and ML on Classification based Data
