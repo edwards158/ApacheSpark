@@ -1,10 +1,10 @@
-# ApacheSpark
+# PySpark
 Experiments with apache spark
 
 
 # Machine Learning and Data Science
 
-This repository contains some of my work using Apache Spark.  I run these experiments on linux with virtual box.  See the medium link below for set up details on spark on linux
+This repository contains some of my work using PySpark.  I run these experiments on linux with virtual box.  See the medium link below for set up details on spark on linux
 
 The notebooks are experiments, courses, assignments, hacks and code ideas from various sources.  For most of these notebooks I have used the following sources as my starting point:
 
