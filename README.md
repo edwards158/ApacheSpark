@@ -18,3 +18,4 @@ The notebooks are experiments, courses, assignments, hacks and code ideas from v
 * [Regression Techniques](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/RegressionTechniques.ipynb):  Appying regression techniques to flights dataset in pyspark
 * [Pipelines](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/PipeLineTechniques.ipynb): Using Pipelines with the flights dataset
 * [Spark DataFrame Prep](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/SparkDataPrep.ipynb): Preparing dataframes for analysis in Spark
+* [Spark caching](https://github.com/riched158/ApacheSpark/blob/master/spark_notebooks/PySparkCaching.ipynb): Simple notebook exploring caching and improve file import times
